@@ -48,11 +48,11 @@ Here are some ideas to get you started:
 -->
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashant-chauhan449&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashant-chauhan449&show_icons=true&theme=github_dark&hide_border=true)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-chauhan449&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-chauhan449&layout=compact&theme=github_dark&hide_border=true)
 
 ## 🔥 Contribution Streak
 
