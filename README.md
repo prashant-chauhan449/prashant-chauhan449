@@ -46,3 +46,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashant-chauhan449&show_icons=true&theme=github_dark)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-chauhan449&layout=compact&theme=github_dark)
+
+## 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=prashant-chauhan449&theme=github-dark)](https://git.io/streak-stats)
