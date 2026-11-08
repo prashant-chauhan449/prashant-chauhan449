@@ -1,4 +1,4 @@
-# Hi, I'm Prashant Chauhan 👋
+# Hi, I'm Prashant Kumar 👋
 
 ### Aspiring Software Engineer | Embedded Systems Enthusiast
 
