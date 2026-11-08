@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 -->
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashant-chauhan449&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=prashant-chauhan449&show_icons=true&theme=github_dark)
 
 ## 💻 Most Used Languages
 
