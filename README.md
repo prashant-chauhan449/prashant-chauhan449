@@ -66,14 +66,10 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
-### 1. Student Management System | C
-A console-based application developed using C.
+### 🎓 Student Management System
+A console-based student management application built using C, structures, pointers, dynamic memory allocation, and file handling.
 
-- Structures and pointers
-- Dynamic memory allocation
-- File handling
-- CRUD operations
-- Input validation
+[View Project](https://github.com/prashant-chauhan449/Student-Management-System)
 
 [View Repository](YOUR_REPOSITORY_LINK)
 
