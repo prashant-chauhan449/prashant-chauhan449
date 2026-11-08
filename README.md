@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-chauhan449&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=prashant-chauhan449&layout=compact&theme=github_dark)
 
 ## 🔥 Contribution Streak
 
