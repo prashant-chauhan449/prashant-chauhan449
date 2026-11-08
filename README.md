@@ -57,3 +57,34 @@ Here are some ideas to get you started:
 ## 🔥 Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=prashant-chauhan449&theme=github-dark)](https://git.io/streak-stats)
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" />
+</p>
+
+## 🚀 Featured Projects
+
+### 1. Student Management System | C
+A console-based application developed using C.
+
+- Structures and pointers
+- Dynamic memory allocation
+- File handling
+- CRUD operations
+- Input validation
+
+[View Repository](YOUR_REPOSITORY_LINK)
+
+### 2. Netflix Data Analysis | Python
+- Data analysis using Python
+- Pandas and data visualization
+
+[View Repository](YOUR_NETFLIX_REPOSITORY_LINK)
+
+### 3. World Food Production Analysis | Power BI
+- Global food production analysis
+- Interactive data visualization
+
+[View Repository](YOUR_POWERBI_REPOSITORY_LINK)
