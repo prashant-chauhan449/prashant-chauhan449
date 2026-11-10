@@ -66,21 +66,29 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
-### 🎓 Student Management System
+### 🎓 1. Student Management System | C
 A console-based student management application built using C, structures, pointers, dynamic memory allocation, and file handling.
 
-[View Project](https://github.com/prashant-chauhan449/Student-Management-System)
+- Implemented CRUD operations to manage student records.
+- Used dynamic memory allocation for efficient memory handling.
+- Added file handling for persistent data storage.
 
-[View Repository](YOUR_REPOSITORY_LINK)
+🔗 [View Repository](https://github.com/prashant-chauhan449/Student-Management-System)
 
-### 2. Netflix Data Analysis | Python
-- Data analysis using Python
-- Pandas and data visualization
+### 🧠 2. Custom Memory Manager Simulator | C
+A memory management simulator developed in C that manages a 1024-byte memory pool using different allocation strategies.
 
-[View Repository](YOUR_NETFLIX_REPOSITORY_LINK)
+- Implemented First Fit, Best Fit, and Worst Fit allocation algorithms.
+- Added memory block splitting and merging.
+- Analyzed memory utilization and external fragmentation.
 
-### 3. World Food Production Analysis | Power BI
-- Global food production analysis
-- Interactive data visualization
+🔗 [View Repository](https://github.com/prashant-chauhan449/custom-memory-manager)
 
-[View Repository](YOUR_POWERBI_REPOSITORY_LINK)
+### 🚆 3. Railway Management System | C++
+A console-based railway management application developed using C++ and Object-Oriented Programming concepts.
+
+- Implemented train management and ticket booking.
+- Added ticket cancellation and seat allocation.
+- Used STL and file handling for managing passenger and ticket records.
+
+🔗 [View Repository](https://github.com/prashant2003212/railway-management-system)
